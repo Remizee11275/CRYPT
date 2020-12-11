@@ -5,7 +5,7 @@ Is compatable with almost any file type. .mp4,.png,.jpeg,.file,.exe,.txt
 
 500mb limit on version BETA3 and below.
 
-vBETA3
+See releases for latest version of CRYPT.
 
 
 ~~~~~~~~~~~~~ENCRYPTION~~~~~~~~~~~~~
