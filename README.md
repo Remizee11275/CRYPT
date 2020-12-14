@@ -6,7 +6,6 @@ It is compatable with almost any file type. .mp4,.png,.jpeg,.file,.exe,.txt
 Easy to use GUI with instructions to use each of CRYPT's functions.
 
 
-
 500mb limit on version BETA3 and below.
 
 
