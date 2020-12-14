@@ -1,6 +1,8 @@
 # CRYPT
 Crypt is a simple,easy, and fast AES encryption, decryption and corruption program made in C#.
+
 It is compatable with almost any file type. .mp4,.png,.jpeg,.file,.exe,.txt
+
 Easy to use GUI with instructions to use each of CRYPT's functions.
 
 
