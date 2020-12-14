@@ -9,7 +9,8 @@ Easy to use GUI with instructions to use each of CRYPT's functions
 
 See releases for latest version of CRYPT. 
 
-
+  
+~~~~~~~~~~~~~ENCRYPTION~~~~~~~~~~~~~
 ~~~~~~~~~~~~~ENCRYPTION~~~~~~~~~~~~~
 1.Drop file in / select file using the explorer.
 2.Select either 32 bit or 64 bit key.
